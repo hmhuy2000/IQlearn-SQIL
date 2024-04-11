@@ -6,7 +6,7 @@ conda install pytorch torchvision torchaudio pytorch-cuda=11.8 -c pytorch -c nvi
 
 pip install -r requirements.txt
 
-<!-- git clone https://github.com/Farama-Foundation/D4RL.git -->
+git clone https://github.com/Farama-Foundation/D4RL.git
 
 cd D4RL
 
