@@ -1,0 +1,12 @@
+cython<3
+d4rl
+gym
+hydra-core==1.0.6
+stable_baselines3==1.0
+tensorboardX
+tensorboard
+tornado
+tqdm
+wandb
+opencv-python
+mujoco_py
